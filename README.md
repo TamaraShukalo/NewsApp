@@ -1,8 +1,13 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
 # News Mobile Application
 
 Mobile application for iOS & Android platforms that allows users to view the list of news, delete and add new news to the feed
+
+## ScreenShots
+
+<img src="https://github.com/user-attachments/assets/53809a43-1905-4a7f-9752-3b213b6ca278" width="360" height="650">   
+<img src="https://github.com/user-attachments/assets/935ca9aa-f030-4385-a95e-fca7fbaa8aa5" width="360" height="650">   
+<img src="https://github.com/user-attachments/assets/b702468a-54ea-4710-bffe-6cc7dc2cbf0b" width="360" height="650">   
+<img src="https://github.com/user-attachments/assets/1d39a41f-01b8-40e2-b48f-2a35b39e0e49" width="360" height="650">   
 
 # Getting Started
 
